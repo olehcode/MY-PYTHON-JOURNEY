@@ -8,10 +8,13 @@ Twinkle, twinkle, little star,
 		Like a diamond in the sky. 
 Twinkle, twinkle, little star, 
 	How I wonder what you are """
-
+#my option
 print("Twinkle, twinkle, little star, ")
 print("     How I wonder what you are!" )
 print("             Up above the world so high,")
 print("             Like a diamond in the sky.")
 print("Twinkle, twinkle, little star,")
 print("     How I wonder what you are")
+#solution w3
+"""print( "Twinkle, twinkle, little star, \n\tHow I wonder what you are!\n\t\tUp above the world so high,\n\t\tLike a diamond in the sky. 
+\n\tTwinkle, twinkle, little star, \n\tHow I wonder what you are!") """
