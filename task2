@@ -1,0 +1,10 @@
+"""2. Write a Python program to find out what version of Python you are using.
+i tried to do it in visual studio by printing (python --version or py --version) it didnt work out. but then i"ve tried it in powershell, there everything worked out
+"""
+#my atempt in powershell: py --version
+#w3 solution by importing sys module
+import sys
+print("python version")
+print(sys.version)
+print("info about version")
+print(sys.version_info)
