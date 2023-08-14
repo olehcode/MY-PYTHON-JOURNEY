@@ -24,4 +24,11 @@ module_=datetime.now()
 print(module_)
 
 !!!SAME RESULT!!!
+
+
+from datetime import date // here we are using module datetime and importing class date
+date1 = date(2023,10,19)
+print(date1)
+
+
 """
