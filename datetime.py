@@ -30,7 +30,6 @@ from datetime import date // here we are using module datetime and importing cla
 date1 = date(2023,10,19)
 print(date1)
 
-
 from datetime import datetime, date,timedelta
 #only prints date(year,month, time)
 a = date(year=2023,month=1,day=1)
@@ -42,5 +41,6 @@ q= datetime(2023,10,10,3,3,1)
 r= datetime(2025,5,4,2,1,3)
 x=q-r;
 print(x)
+print (type((x)))
 
 """
