@@ -12,4 +12,16 @@ print("TODAY IS: ", now)
 
 !!!FOR ONLY DATE WE USE!!! datetime.date.today() ///
 FOR DATE AND TIME WE USE!!! datetime.datetime.now()
+
+
+
+from datetime import datetime 
+module_=datetime.today()
+print(module_)
+
+from datetime import datetime 
+module_=datetime.now()
+print(module_)
+
+!!!SAME RESULT!!!
 """
